@@ -10,6 +10,3 @@ coverage
 
 ## macos
 .DS_Store
-
-## distribution
-/dist
